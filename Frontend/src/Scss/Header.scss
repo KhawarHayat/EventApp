@@ -1,0 +1,31 @@
+#Header {
+    width: 100%;
+    height: 3%;
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    .logo {
+        width: 50%;
+        
+    }
+    img {
+        cursor: pointer;
+        margin-top: 2%;
+        margin-left: 3%;
+    }
+    p {
+        cursor: pointer;
+        font-size: 150%;
+        width: 20%;
+    }
+    .right {
+        text-align: center;
+    }
+    .non {
+        text-decoration: none;
+        color: black;
+        padding: 0%;
+        margin: 0%;
+        width: 20%;
+    }
+}

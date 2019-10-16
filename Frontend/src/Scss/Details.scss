@@ -1,0 +1,18 @@
+.Details{
+    .inline {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        p {
+            padding: 1%;
+            margin: 1%;
+        }
+        
+    }
+     #img {
+         width: 100%;
+         min-height: 200px;
+         max-height: 400px;
+         object-fit: fill;
+     }
+}
